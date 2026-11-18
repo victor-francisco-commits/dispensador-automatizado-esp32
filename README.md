@@ -1,4 +1,3 @@
-```markdown
 # Dispensador Automatizado con Telemetría Web (ESP32 + MicroPython)
 
 Sistema mecatrónico de dosificación controlada por peso y monitoreo de nivel en tiempo real, gestionado mediante un servidor web embebido en **MicroPython** sobre un microcontrolador **ESP32**.
