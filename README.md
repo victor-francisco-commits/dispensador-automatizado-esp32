@@ -72,7 +72,3 @@ El prototipo automatiza la entrega precisa de porciones y supervisa el almacenam
 
 * **Firmware & Lenguaje:** MicroPython, ESP32, sockets TCP/HTTP
 * **Sensores y Potencia:** Celda de carga + HX711, sensor ultrasónico HC-SR04, driver A4988, motor paso a paso NEMA 17
-
-```
-
-```
